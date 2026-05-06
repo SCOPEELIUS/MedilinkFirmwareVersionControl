@@ -1,0 +1,42 @@
+{
+    "global_release": "1.1.0",
+    "boards": [
+        {
+            "tag": "vortan_s3_mini1_n8",
+            "display_name": "Vortan S3 MINI 1-N8",
+            "version": "1.1",
+            "mcu_type": "esp32s3",
+            "supported_inputs": [
+                "rs232",
+                "eth",
+                "usb",
+                "wifi"
+            ],
+            "supported_outputs": [
+                "eth",
+                "wifi",
+                "rs232",
+                "usb",
+                "lora"
+            ]
+        }
+    ],
+    "device_firmwares": [
+        {
+            "id": 1,
+            "ports": "eth_wifi",
+            "board_tag": "vortan_s3_mini1_n8",
+            "board_version": "1.1",
+            "version": "1.1.0",
+            "url": "https://raw.githubusercontent.com/Vortan-Labs/Firmware/main/binaries/vortan_s3_mini1_n8_eth_wifi_v1.1.0.bin"
+        },
+        {
+            "id": 2,
+            "ports": "wifi_eth",
+            "board_tag": "vortan_s3_mini1_n8",
+            "board_version": "1.1",
+            "version": "1.1.0",
+            "url": "https://raw.githubusercontent.com/Vortan-Labs/Firmware/main/binaries/vortan_s3_mini1_n8_wifi_eth_v1.1.0.bin"
+        }
+    ]
+}
