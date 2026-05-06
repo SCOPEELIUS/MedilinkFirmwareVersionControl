@@ -21,6 +21,13 @@
             ]
         }
     ],
+    "software_updates": [
+        {
+            "version": "1.1.0",
+            "windows_url": "https://github.com/SCOPEELIUS/MedilinkFirmwareVersionControl/blob/master/app_updates/medilink_gateway_win.exe?raw=true",
+            "linux_url": "https://github.com/SCOPEELIUS/MedilinkFirmwareVersionControl/blob/master/app_updates/medilink_gateway_linux.AppImage?raw=true"
+        }
+    ],
     "device_firmwares": [
         {
             "id": 1,
