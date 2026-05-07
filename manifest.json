@@ -1,5 +1,5 @@
 {
-    "global_release": "1.1.0",
+    "global_release": "1.2.0",
     "boards": [
         {
             "tag": "vortan_s3_mini1_n8",
