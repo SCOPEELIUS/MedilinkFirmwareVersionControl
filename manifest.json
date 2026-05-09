@@ -1,5 +1,5 @@
 {
-    "global_release": "1.2.7",
+    "global_release": "1.2.8",
     "boards": [
         {
             "tag": "vortan_s3_mini1_n8",
@@ -57,8 +57,8 @@
             "ports": "rs232_eth",
             "board_tag": "vortan_s3_mini1_n8",
             "board_version": "1.1",
-            "version": "1.0",
-            "url": "https://github.com/SCOPEELIUS/MedilinkFirmwareVersionControl/blob/master/binaries/rs232_eth_v1.0.bin?raw=true"
+            "version": "1.1",
+            "url": "https://github.com/SCOPEELIUS/MedilinkFirmwareVersionControl/blob/master/binaries/rs232_eth_v1.1.bin?raw=true"
         }
     ]
 }
